@@ -21,7 +21,5 @@ The script is designed to streamline data cleaning and formatting tasks, making 
 
 - **README.md**: Provides a description of the project and information about the repository.
 
-- **requirements.txt**: Lists the Python dependencies required to run the scripts.
-
 ## Running the Tests
 To run the tests, navigate to the `tests/` directory and run the following command: python -m unittest discover 
