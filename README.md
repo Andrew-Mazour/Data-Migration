@@ -13,7 +13,7 @@ The script is designed to streamline data cleaning and formatting tasks, making 
   - `main_script.py`: The main script that handles reading, modifying, sorting, and saving the CSV data.
 
 - **tests/**: Contains unit tests for validating the functionality of the scripts.
-  - `test_main_script.py`: Unit tests for the functions and methods in `DataMigration.py`.
+  - `test_main_script.py`: Unit tests for the functions and methods in `main_script.py`.
 
 - **data/**: Contains sample CSV files used for testing and demonstration.
   - `unmodified.csv`: Example of an unmodified CSV file for processing.
