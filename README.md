@@ -24,4 +24,4 @@ The script is designed to streamline data cleaning and formatting tasks, making 
 - **requirements.txt**: Lists the Python dependencies required to run the scripts.
 
 ## Running the Tests
-To run the tests, navigate to the `tests/` directory and run the following command: python -m unittest discover"# fgdfg" 
+To run the tests, navigate to the `tests/` directory and run the following command: python -m unittest discover 
