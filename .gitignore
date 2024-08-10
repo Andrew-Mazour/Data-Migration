@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test and coverage results
+*.coverage
+*.cover
+*.log
+htmlcov/
+
+# Environments
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test artifacts
+.tox/
+.nox/
+.pytest_cache/
+.cache
+*.cover
+.hypothesis/
+
+# Other
+*.env
+*.DS_Store
+
+# CSV files
+unmodified.csv
+modified.csv
