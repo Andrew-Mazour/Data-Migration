@@ -22,4 +22,4 @@ The script is designed to streamline data cleaning and formatting tasks, making 
 - **README.md**: Provides a description of the project and information about the repository.
 
 ## Running the Tests
-To run the tests, navigate to the `tests/` directory and run the following command: python -m unittest discover 
+Navigate to the `tests/` directory and run the following command: python -m unittest discover 
