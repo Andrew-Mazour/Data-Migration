@@ -1,10 +1,10 @@
 # CSV Data Processing Script
 
-## Overview
+## 🔍 Overview
 
 This Python script processes CSV files by performing a series of data transformations and enhancements. It streamlines data cleaning and formatting, making it ideal for preparing data for further analysis or reporting.
 
-## Features
+## ✨ Features
 
 **Reads CSV Data**: Converts CSV contents into a list of lists.
 
@@ -26,7 +26,7 @@ Cleans and formats phone numbers.
 
 **Saves Processed Data**: Outputs the cleaned and formatted data to a new CSV file.
 
-## Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -42,7 +42,7 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-## Usage
+## 🚀 Usage
 
 Place the CSV file to be processed in the project directory.
 
@@ -53,6 +53,6 @@ python process_csv.py input.csv output.csv
 Choose a sorting option when prompted.
 
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 Ensure that input CSV files follow a consistent format to avoid processing errors.
