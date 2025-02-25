@@ -38,10 +38,6 @@ Create a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
-Install dependencies:
-
-pip install -r requirements.txt
-
 ## 🚀 Usage
 
 Place the CSV file to be processed in the project directory.
