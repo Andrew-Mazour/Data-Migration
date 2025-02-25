@@ -19,7 +19,5 @@ The script is designed to streamline data cleaning and formatting tasks, making 
   - `unmodified.csv`: Example of an unmodified CSV file for processing.
   - `modified.csv`: Example of a processed CSV file after modifications.
 
-- **README.md**: Provides a description of the project and information about the repository.
-
 ## Running the Tests
 Navigate to the `tests/` directory and run the following command: python -m unittest discover 
