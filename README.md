@@ -48,7 +48,7 @@ Place the CSV file to be processed in the project directory.
 
 Run the script:
 
-python process_csv.py input.csv output.csv
+python main_script.py input.csv output.csv
 
 Choose a sorting option when prompted.
 
