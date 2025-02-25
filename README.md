@@ -30,8 +30,8 @@ Cleans and formats phone numbers.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/csv-data-processing.git
-cd csv-data-processing
+git clone https://github.com/yourusername/Data-Migration.git
+cd Data-Migration
 
 Create a virtual environment (optional but recommended):
 
@@ -52,19 +52,6 @@ python process_csv.py input.csv output.csv
 
 Choose a sorting option when prompted.
 
-## Example Output
-
-Before Processing:
-
-Transaction ID, Customer ID, Name, Amount (USD), Transaction Type, Email, Phone
-1001, 2001, John Doe, 50.00, Debit, johndoe@example.com, (123) 456-7890
-1002, 2002, Jane Smith, 75.00, Credit, janesmith@domain, 987-654-3210
-
-After Processing:
-
-Transaction ID, Customer ID, First Name, Last Name, Amount (CAD), Transaction Type, Email, Phone
-1001, 2001, John, Doe, 67.50, DB, johndoe@example.com, 1234567890
-1002, 2002, Jane, Smith, 101.25, CR, INVALID, 9876543210
 
 ## Disclaimer
 
