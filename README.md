@@ -30,8 +30,8 @@ Cleans and formats phone numbers.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Data-Migration.git
-cd Data-Migration
+git clone https://github.com/yourusername/data-migration.git
+cd data-migration
 
 Create a virtual environment (optional but recommended):
 
