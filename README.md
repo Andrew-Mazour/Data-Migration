@@ -20,7 +20,7 @@ This Python script processes CSV files by performing a series of data transforma
 
 - Validates email addresses.
 
-Cleans and formats phone numbers.
+- Cleans and formats phone numbers.
 
 **Sorting Options**: Allows sorting by Transaction ID, Customer ID, or First Name.
 
