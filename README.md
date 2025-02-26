@@ -28,7 +28,7 @@ This Python script processes CSV files by performing a series of data transforma
 
 ## ⚙️ Installation
 
-Clone the repository:
+**Clone the repository**:
 
 git clone https://github.com/yourusername/data-migration.git
 cd data-migration
