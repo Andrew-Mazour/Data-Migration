@@ -12,9 +12,9 @@ This Python script processes CSV files by performing a series of data transforma
 
 **Data Transformations**:
 
-Converts US currency values to Canadian dollars.
+- Converts US currency values to Canadian dollars.
 
-Abbreviates transaction types ("Debit" → "DB", "Credit" → "CR").
+- Abbreviates transaction types ("Debit" → "DB", "Credit" → "CR").
 
 Splits full names into first and last names.
 
