@@ -16,9 +16,9 @@ This Python script processes CSV files by performing a series of data transforma
 
 - Abbreviates transaction types ("Debit" → "DB", "Credit" → "CR").
 
-Splits full names into first and last names.
+- Splits full names into first and last names.
 
-Validates email addresses.
+- Validates email addresses.
 
 Cleans and formats phone numbers.
 
