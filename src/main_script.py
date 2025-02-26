@@ -54,7 +54,7 @@ class CSVReading:
         else:
             print("Please select a valid sorting type")
             
-        #Ensures data is safely transfered/saved in new CSV file
+        # Ensures data is safely transfered/saved in new CSV file
     def save_to_new_csv(self, output_file_dir):
         try:
             with open(output_file_dir, 'w', newline='') as file:
